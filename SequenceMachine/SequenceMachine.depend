@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1544822624 source:d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\main.cpp
+	<iostream>
+	<conio.h>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544821835 d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\include\sequence.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cstdio>
+	<cstring>
+
+1544821505 source:d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\src\dna.cpp
+	"DNA.h"
+
+1544821543 d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\include\dna.h
+	<iostream>
+	"Sequence.h"
+	"RNA.h"
+
+1544821281 source:d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\src\protein.cpp
+	"Protein.h"
+	<fstream>
+
+1544821974 d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\include\protein.h
+	"Sequence.h"
+	"DNA.h"
+
+1544731178 d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\include\rna.h
+	<iostream>
+	"Sequence.h"
+	"Protein.h"
+	"CodonsTable.h"
+	"DNA.h"
+
+1544821889 d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\include\codonstable.h
+	"Sequence.h"
+	<string>
+
+1544822836 source:d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\src\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+	<string>
+	<cstring>
+
+1544821543 source:d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\src\sequence.cpp
+	"Sequence.h"
+
+1544821974 source:d:\marriam\college\level 2\first term\oop\assignments\assignment_4\sequencemachine\src\rna.cpp
+	"RNA.h"
+

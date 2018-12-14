@@ -1,0 +1,16 @@
+#ifndef SEQUENCE_H
+#define SEQUENCE_H
+
+
+class Sequence
+{
+    public:
+        Sequence();
+        virtual ~Sequence();
+
+    protected:
+
+    private:
+};
+
+#endif // SEQUENCE_H
